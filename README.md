@@ -6,7 +6,7 @@ Este projeto teve o objetivo de recriar a pagina inicial do Instagram para por e
 
 ## Foto do Projeto
 
-![]()
+![Imagem do Projeto](https://github.com/robercout/recriando-pagina-inicial-do-instagram/raw/main/img/instagram.png)
 
 
 
